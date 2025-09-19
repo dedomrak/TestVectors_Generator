@@ -1,0 +1,16 @@
+# Ports:
+#		INPUT	|	OUTPUT 
+clk, reset, enable,  | count[3], count[2], count[1], count[0],
+
+000XXXX
+1101111
+0010011
+0000110
+1011101
+1101001
+1100001
+0011010
+1111001
+1001101
+1111110
+#	End of testvector file! 
